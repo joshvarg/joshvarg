@@ -1,6 +1,6 @@
 # Joshua Varghese
-Student @ The Ohio State University
-
+Server Systems Administrator @ Epic Systems
+OSU Class of '23
 
 
 <!---

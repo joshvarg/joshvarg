@@ -18,7 +18,7 @@ left: 0;
 height: 100%;
 object-fit: scale-down;
 width: 100%;
-opacity: 1.0;
+opacity: 0.7;
 background: url('https://raw.githubusercontent.com/joshvarg/joshvarg/main/philipp-a-urlich-cpncept654.jpg');
 pointer-events: none;
 color:transparent;

@@ -23,7 +23,5 @@ opacity: 1.0;
 background: url('https://raw.githubusercontent.com/joshvarg/joshvarg/main/philipp-a-urlich-cpncept654.jpg');
 pointer-events: none;
 color:transparent;
--webkit-mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
-mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
 "]{}
 ```

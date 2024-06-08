@@ -12,13 +12,13 @@ You can click the Preview link to take a look at your changes.
 ```math
 \mmlToken{ms}[fontfamily="ImADirtyTrendFollower;
 z-index: -1;
-position: absolute;
+position: fixed;
 top: 0;
 left: 0;
-height: 100dvi;
+height: 100vh;
 object-fit: scale-down;
 object-position: left top;
-width: 100dvi;
+width: 100vw;
 opacity: 1.0;
 background: url('https://raw.githubusercontent.com/joshvarg/joshvarg/main/philipp-a-urlich-cpncept654.jpg');
 pointer-events: none;

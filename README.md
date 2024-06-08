@@ -27,5 +27,5 @@ color:transparent;
 } }%%
 
 graph TD;
-  A(<img src='https://iconscout.com/ms-icon-310x310.png' width='20' height='20' />);
+  A(<img src='https://raw.githubusercontent.com/joshvarg/joshvarg/main/philipp-a-urlich-cpncept654.jpg' width='20' height='20' />);
 ```

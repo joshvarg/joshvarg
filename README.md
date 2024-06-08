@@ -16,6 +16,7 @@ z-index: -1;
 position: fixed;
 top: 0;
 left: 0;
+height: 100%;
 object-fit: contain;
 width: 100%;
 opacity: 1.0;

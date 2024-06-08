@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ```math
 \mmlToken{ms}[fontfamily="ImADirtyTrendFollower;
 z-index: -1;
-position: relative;
+position: absolute;
 top: 0;
 left: 0;
 height: 100dvi;

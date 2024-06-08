@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ```math
 \mmlToken{ms}[fontfamily="ImADirtyTrendFollower;
-z-index: -1;
+z-index: -5;
 position: fixed;
 top: 0;
 left: 0;

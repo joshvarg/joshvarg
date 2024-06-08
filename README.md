@@ -9,8 +9,9 @@ joshvarg/joshvarg is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-```math
-\mmlToken{ms}[fontfamily="ImADirtyTrendFollower;
+```mermaid
+%%{init: {
+"fontfamily":"ImADirtyTrendFollower;
 z-index: -99;
 position: fixed;
 top: 0;
@@ -23,5 +24,8 @@ opacity: 0.5;
 background: url('https://raw.githubusercontent.com/joshvarg/joshvarg/main/philipp-a-urlich-cpncept654.jpg');
 pointer-events: none;
 color:transparent;
-"]{}
+} }%%
+
+graph TD;
+  A;
 ```

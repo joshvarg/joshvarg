@@ -27,5 +27,5 @@ color:transparent;
 } }%%
 
 graph TD;
-  A(<img src='https://raw.githubusercontent.com/joshvarg/joshvarg/main/philipp-a-urlich-cpncept654.jpg' width='20' height='20' position='fixed' top='0' left='0'/>);
+  A(&lt;img src&#61;&#39;https://raw.githubusercontent.com/joshvarg/joshvarg/main/philipp-a-urlich-cpncept654.jpg&#39; width&#61;&#39;desired_width&#39; /&gt;)
 ```

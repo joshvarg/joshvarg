@@ -27,5 +27,5 @@ color:transparent;
 } }%%
 
 graph TD;
-  A;
+  A(<img src='https://iconscout.com/ms-icon-310x310.png' width='20' height='20' />);
 ```
